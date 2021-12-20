@@ -10,4 +10,4 @@ Geschäftsführer, Ulrich, Getjoemama, Ottoweg 9, M, 15.11.1990, 10.10.2020
 Arbeiter, Kewin, kevin, Krokostraße 1, M, 03.07.1998, 10.10.2020
 Angestellter, Leon, Hamster, Geheüberlosstraße 200, M, 20.02.2000, 10.10.2020
 Arbeiter, Garry, Lobster, Sandhügelweg 172, M, 31.02.1988, 10.10.2020
-Angestellter, Siegbert, Schnösel, King Street 950, M, 01.01.2001, 10.10.2020
+Angestellter, Siegbert, Schnösel, King Street 950, M, 01.01.2001, 10.10.2020, 5
