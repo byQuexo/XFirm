@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b0480a-388e-4e19-9877-3c42062d9087" name="Changes" comment="HIII">
+    <list default="true" id="86b0480a-388e-4e19-9877-3c42062d9087" name="Changes" comment="Hab Firma zu Software ubennant weil das so muss">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/Main/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/Main/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XFirm/src/personen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/personen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Firma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +34,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1640006858262</updated>
       <workItem from="1640006859955" duration="1445000" />
+      <workItem from="1640027250944" duration="314000" />
+      <workItem from="1640027806774" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="HIII">
       <created>1640007836741</created>
@@ -67,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HIII" />
-    <option name="LAST_COMMIT_MESSAGE" value="HIII" />
+    <MESSAGE value="Hab Firma zu Software ubennant weil das so muss" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hab Firma zu Software ubennant weil das so muss" />
   </component>
 </project>

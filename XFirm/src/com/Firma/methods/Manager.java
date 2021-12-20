@@ -13,13 +13,13 @@ public class Manager extends Mitarbeiter{
         this.fixGehalt = fixGehalt;
     }
 
-    public double provision(double prozent) {
+    public double provision(double prozent, Arbeiter a) {
         prozent = prozent / 100;
-        return fixGehalt * prozent;
+        return a.gehalt() * prozent;
     }
 
-    public double gehalt() {
-        return fixGehalt() + provision(5);
+    public double gehalt(Arbeiter a) {
+        return fixGehalt() + provision(5, a);
     }
 
     public double fixGehalt() {
