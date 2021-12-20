@@ -1,0 +1,13 @@
+Moritz, Irlenkäuser, Mühlenweg 19, M, 08.09.1998, 10.10.2020
+Moritz, Bubatz, Mühlestraße 91, M, 09.08.1998, 10.10.2020
+Moe, Irlenhaeuser, Muluckenweg 168, M, 08.09.1998, 10.10.2020
+Davi, Wärner, Donnerstraße 8, M, 18.12.1960, 10.10.2020
+Jahn, Benemann, Gewitterstraße 10, M, 04.02.1999, 10.10.2020
+Töm, Gühnefrau, Zeustraße 333, M, 20.12.2004, 10.10.2020
+Dieter, Ballen, Ballerstraße 12, M, 20.05.1960, 10.10.2020
+Klaus, Günther, Straßestraße 5, M, 27.08.2001, 10.10.2020
+Ulrich, Getjoemama, Ottoweg 9, M, 15.11.1990, 10.10.2020
+Kewin, kevin, Krokostraße 1, M, 03.07.1998, 10.10.2020
+Leon, Hamster, Geheüberlosstraße 200, M, 20.02.2000, 10.10.2020
+Garry, Lobster, Sandhügelweg 172, M, 31.02.1988, 10.10.2020
+Siegbert, Schnösel, King Street 950, M, 01.01.2001, 10.10.2020

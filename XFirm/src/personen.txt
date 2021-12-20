@@ -1,0 +1,13 @@
+Angestellter, Moritz, Irlenkäuser, Mühlenweg 19, M, 08.09.1998, 10.10.2020,
+Angestellter, Moritz, Bubatz, Mühlestraße 91, M, 09.08.1998, 10.10.2020
+Manager, Moe, Irlenhaeuser, Muluckenweg 168, M, 08.09.1998, 10.10.2020, 10.0, 6000
+Angestellter, Davi, Wärner, Donnerstraße 8, M, 18.12.1960, 10.10.2020
+Arbeiter, Jahn, Benemann, Gewitterstraße 10, M, 04.02.1999, 10.10.2020
+Angestellter, Töm, Gühnefrau, Zeustraße 333, M, 20.12.2004, 10.10.2020
+Angestellter, Dieter, Ballen, Ballerstraße 12, M, 20.05.1960, 10.10.2020
+Manager, Klaus, Günther, Straßestraße 5, M, 27.08.2001, 10.10.2020, 11.0, 7500
+Geschäftsführer, Ulrich, Getjoemama, Ottoweg 9, M, 15.11.1990, 10.10.2020
+Arbeiter, Kewin, kevin, Krokostraße 1, M, 03.07.1998, 10.10.2020
+Angestellter, Leon, Hamster, Geheüberlosstraße 200, M, 20.02.2000, 10.10.2020
+Arbeiter, Garry, Lobster, Sandhügelweg 172, M, 31.02.1988, 10.10.2020
+Angestellter, Siegbert, Schnösel, King Street 950, M, 01.01.2001, 10.10.2020
