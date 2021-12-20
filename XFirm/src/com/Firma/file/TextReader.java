@@ -22,6 +22,7 @@ public class TextReader {
                 DateTimeFormatter timeFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
                 LocalDate geb = LocalDate.parse(strings[4], timeFormatter);
                 LocalDate eintritt = LocalDate.parse(strings[5], timeFormatter);
+                System.out.println("HIIIIIII");
                 zeile++;
 
             }
