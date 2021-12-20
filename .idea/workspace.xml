@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b0480a-388e-4e19-9877-3c42062d9087" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86b0480a-388e-4e19-9877-3c42062d9087" name="Changes" comment="HIII">
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/personen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/personen.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640006858262</updated>
-      <workItem from="1640006859955" duration="905000" />
+      <workItem from="1640006859955" duration="1445000" />
     </task>
+    <task id="LOCAL-00001" summary="HIII">
+      <created>1640007836741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640007836741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HIII" />
+    <option name="LAST_COMMIT_MESSAGE" value="HIII" />
   </component>
 </project>
