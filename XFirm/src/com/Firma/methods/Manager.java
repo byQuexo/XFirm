@@ -15,7 +15,7 @@ public class Manager extends Mitarbeiter{
 
     public double provision(double prozent, Angestellte a) {
         prozent = prozent / 100;
-        return (Double.parseDouble(a.getLohn()) * prozent);
+        return (a.getGehalt() * prozent);
     }
 
     public double gehalt(Angestellte a) {

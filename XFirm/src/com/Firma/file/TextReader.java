@@ -21,6 +21,11 @@ public class TextReader {
                 DateTimeFormatter timeFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
                 LocalDate geb = LocalDate.parse(strings[4], timeFormatter);
                 LocalDate eintritt = LocalDate.parse(strings[5], timeFormatter);
+                String vor = strings[0];
+                String nach = strings[1];
+                String address = strings[2];
+                String ges = strings[3];
+                fm.addAngestellte(new Mitarbeiter(vor, nach, address, ges, geb, eintritt));
                 zeile++;
 
             }
