@@ -17,13 +17,20 @@ public class Mitarbeiter {
         this.vname = vname;
         this.nname = nname;
         this.adresse = adresse;
-        setGebjahr(gebjahr);
+        this.gebjahr = gebjahr;
         this.ges = ges;
         this.eintrittsdatum = eintrittsdatum;
         String mitarbeiterId = getGes() + getGebjahr().getYear() + getVname().charAt(0) + getNname().charAt(0) + count;
         setMitarbeiterId(mitarbeiterId);
         count++;
     }
+
+    public void MitarbeiterAkte() {
+
+    }
+
+
+
 
     public static int getCount() {
         return count;

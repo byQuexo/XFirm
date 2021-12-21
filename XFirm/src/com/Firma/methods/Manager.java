@@ -47,7 +47,7 @@ public class Manager extends Mitarbeiter{
 
     @Override
     public String toString() {
-        return "Manager{" +
+        return super.toString() + "Manager{" +
                 "praemie=" + praemie +
                 ", gehalt=" + fixGehalt +
                 '}';

@@ -11,12 +11,12 @@ public class TestMain {
 
         try {
             new TextReader();
-            System.out.println(fm.getAliste());
             fm.deleteAngestellte(fm.getAliste()[1]);
-            System.out.println(fm.getAliste());
-            System.out.println(fm.getVliste());
-
-
+            System.out.println(fm);
+            fm.durschnittsAlter();
+            fm.geschlechteraufteilung();
+            fm.anzahlMitarbeiter();
+            System.out.println(fm.laengsteFirmenzugehörigkeit());
 
         }catch (Exception e) {
             System.out.println(e.getMessage());
