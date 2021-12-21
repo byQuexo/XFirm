@@ -7,10 +7,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
 
 public class TextReader {
-    public static Firma fm = new Firma("XFirm");
+    public static Software fm = new Software("XFirm");
     public TextReader() throws FileNotFoundException {
         BufferedReader br;
         try {

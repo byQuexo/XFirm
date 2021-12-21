@@ -1,10 +1,7 @@
 package com.Firma.file;
 
-import com.Firma.methods.Angestellte;
-import com.Firma.methods.Firma;
 import com.Firma.methods.Mitarbeiter;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 

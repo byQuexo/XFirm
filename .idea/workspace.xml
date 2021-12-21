@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b0480a-388e-4e19-9877-3c42062d9087" name="Changes" comment="Hab Firma zu Software ubennant weil das so muss">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/Main/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/Main/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/file/TextWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Angestellte.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Angestellte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Firma.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/XFirm/src/com/Firma/methods/Manager.java" afterDir="false" />
     </list>
@@ -54,6 +54,7 @@
       <workItem from="1640006859955" duration="1445000" />
       <workItem from="1640027250944" duration="314000" />
       <workItem from="1640027806774" duration="2507000" />
+      <workItem from="1640071586020" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="HIII">
       <created>1640007836741</created>
